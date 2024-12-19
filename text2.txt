@@ -7,4 +7,4 @@ steps to add file
 *****************
 *git add (file name)----for adding new file
 *git commit -m "commit message"
-*git push orgin 
+*git push origin 

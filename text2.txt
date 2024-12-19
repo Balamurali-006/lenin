@@ -1,0 +1,10 @@
+*cd----- current directory
+*cd-----change directory
+*git----- --version for checking version
+*git status-----for checking status of file
+
+steps to add file
+*****************
+*git add (file name)----for adding new file
+*git commit -m "commit message"
+*git push orgin 

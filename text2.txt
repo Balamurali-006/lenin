@@ -8,3 +8,7 @@ steps to add file
 *git add (file name)----for adding new file
 *git commit -m "commit message"
 *git push origin 
+
+git branch ----for checking branch
+git branch -M main ----for changing the master to main
+git remote origin link -----for changing the repository
